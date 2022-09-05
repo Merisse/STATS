@@ -1,4 +1,4 @@
-# STDAS
-This repository contains the code implementation of STDAS!
+# STATS
+This repository contains the code implementation of STATS!
 
 Comming soon!
